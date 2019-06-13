@@ -1,3 +1,8 @@
+Three questions have been formulated and answered using the dataset. Each question uses a
+different methodology learned in class, and contains quantitative and qualitative components.
+Jupyter notebook is employed to state concrete questions, hypotheses, and methodologies, and
+to present the significance of the results.
+
 Question 1: For long arrival delays, which passengers might be satisfied?  
 Question 2: How many passengers give high score level on “Food and Drink”?  
 Question 3: Estimate the accuracy of k-Nearest Neighbor (k=3, 5, and 7) and other Classifiers on this dataset?  
