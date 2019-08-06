@@ -12,4 +12,4 @@ satisfied are dominated by loyal customers. In the second problem, passengers mi
 a strong opinion on food and drink, so there is a space of improvement for airline companies to
 improve the services to attract more customers. In the last question, machine learning tasks
 have been accomplished, and different classifiers have been tested on this dataset. The
-accuracy of each classifier is estimated.
+accuracy of each classifier is estimated.  
